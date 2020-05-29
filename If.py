@@ -6,4 +6,4 @@ if(age >= 18):
   print('Yes, the person is eligible to vote')
   
 else:
-  print('No, the person is not eligible to vote'))
+  print('No, the person is not eligible to vote')
