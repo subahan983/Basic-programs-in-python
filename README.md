@@ -1,2 +1,2 @@
 # Basic-programs-in-python
-Hello, these are basic programs in python for beginners
+Hello, this repository contains basic programs in python for beginners
